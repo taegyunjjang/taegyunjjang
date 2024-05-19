@@ -22,5 +22,5 @@ Currently, I'm interested in **Computer Vision** and **Natural Language Processi
 
 ### Contact
 ---
-[![Mail](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](ypp1900@naver.com)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](tgkim980605@gmail.com)
+[![Mail](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](mailto:ypp1900@naver.com)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:tgkim980605@gmail.com)
