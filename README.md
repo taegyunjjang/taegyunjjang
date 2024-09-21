@@ -1,10 +1,8 @@
 ### Hi there 👋
 ---
-I'm Taegyun Kim, aspiring to become a **Machine Learning Engineer**.
+I'm Taegyun Kim, currently studying natural language processing and I want to become a developer in this field.
 
 I'm majoring in Mathematics at Soongsil University and double-majoring in the Department of AI Convergence.
-
-Currently, I'm interested in **Computer Vision** and **Natural Language Processing**.
 
 <br>
 
